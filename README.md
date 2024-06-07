@@ -39,9 +39,6 @@ E-Learning System adalah platform pembelajaran online yang dibangun menggunakan 
 - Guru meelihat daftar kehadiran siswa
 ![Screenshot](screenshot/image-7.png)
 
-- Guru mengupload data materi belajar
-![Screenshot](screenshot/image-6.png)
-
 ## Dashboard Siswa
 
 - Siswa melihat dan membuat pesan diskusi
