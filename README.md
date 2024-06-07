@@ -1,6 +1,6 @@
 # Demo Website e-learning
 
-E-Learning System adalah platform pembelajaran online yang dibangun menggunakan full stack JavaScript. Sistem ini dirancang untuk mendukung interaksi antara admin, guru, dan siswa dalam lingkungan pembelajaran digital.
+E-Learning System adalah platform pembelajaran online yang dibangun menggunakan full stack JavaScript. Sistem ini dirancang untuk mendukung interaksi antara guru dan siswa dalam lingkungan pembelajaran digital, dan dikelola oleh admin.
 
 ## Teknologi yang Digunakan
 - **Frontend:** ReactJS
@@ -14,7 +14,7 @@ E-Learning System adalah platform pembelajaran online yang dibangun menggunakan 
 
 ## Dashboard Admin
 
-### Admin mengakses halaman daftar siswa
+- Admin mengakses halaman daftar siswa
 ![Screenshot](screenshot/image-9.png)
 
 ### Admin mengakses halaman update data kelas
