@@ -1,5 +1,14 @@
 # Demo Website e-learning
 
+E-Learning System adalah platform pembelajaran online yang dibangun menggunakan full stack JavaScript. Sistem ini dirancang untuk mendukung interaksi antara admin, guru, dan siswa dalam lingkungan pembelajaran digital.
+
+## Teknologi yang Digunakan
+- **Frontend:** ReactJS
+- **Backend:** ExpressJS
+- **Database:** Mysql
+- **Realtime Communication:** Socket.IO
+- **Authentication:** JWT (JSON Web Tokens)
+
 ## Halaman Login
 ![Screenshot](screenshot/image-3.png)
 
