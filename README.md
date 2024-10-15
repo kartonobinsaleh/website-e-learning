@@ -10,6 +10,9 @@ E-Learning System adalah platform pembelajaran online yang dibangun menggunakan 
 - **Authentication:** JWT (JSON Web Tokens)
 
 ## Di bawah ini adalah beberapa tampilan dari aplikasi web E-Learning:
+- **Dashboard Admin**
+- **Dashboard Guru**
+- **Dashboard Siswa**
 
 ## Halaman Login
 ![Screenshot](screenshot/image-3.png)
